@@ -6,7 +6,7 @@
 
 ## Start the game 
 
-> npx terminaltoolgamejs
+> npx i jsterminalquiz
 
 
 ### Use Packages 
