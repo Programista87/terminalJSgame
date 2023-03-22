@@ -6,7 +6,7 @@
 
 ## Start the game 
 
-> npx sloniuline
+> npx terminaltoolgamejs
 
 
 ### Use Packages 
