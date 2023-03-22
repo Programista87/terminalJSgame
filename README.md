@@ -6,7 +6,7 @@
 
 ## Start the game 
 
-> npx i jsterminalquiz
+> npx jsterminalquiz
 
 
 ### Use Packages 
