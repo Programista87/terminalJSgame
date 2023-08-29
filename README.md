@@ -2,6 +2,8 @@
 
 10 questions to JavaScript Master
 
+The game takes advantage of asynchronicity
+
 
 
 ## Start the game 
